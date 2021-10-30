@@ -1,1 +1,2 @@
 D:\C代码\test\c jiyun\30.10\Debug\30.10.exe
+D:\C代码\test\c jiyun\c-jiyun\30.10\Debug\30.10.exe
