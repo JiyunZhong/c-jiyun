@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 D:\C代码\test\c jiyun\c-jiyun\6.11\Debug\6.11.exe
+=======
+D:\C代码\test\c jiyun\c-jiyun\6.11\Debug\6.11.exe
+>>>>>>> b002a3aa975519cc7619aca1c078b1b14ee75f74
