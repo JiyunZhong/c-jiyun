@@ -1,4 +1,2 @@
 ﻿  16.11 p45.c
-D:\C代码\test\c jiyun\c-jiyun\16.11 p45\16.11 p45.c(16,21): warning C4047: “函数”:“int”与“char [6]”的间接级别不同
-D:\C代码\test\c jiyun\c-jiyun\16.11 p45\16.11 p45.c(16,14): warning C4024: “memset”: 形参和实参 2 的类型不同
   16.11 p45.vcxproj -> D:\C代码\test\c jiyun\c-jiyun\16.11 p45\Debug\16.11 p45.exe
